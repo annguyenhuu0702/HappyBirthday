@@ -1,0 +1,10 @@
+@media (max-width: 740px) {
+  body {
+    overflow-y: hidden;
+  }
+
+  .avatar__img {
+    width: 600px;
+    height: 600px;
+  }
+}
