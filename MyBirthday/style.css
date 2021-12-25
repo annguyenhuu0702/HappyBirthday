@@ -771,4 +771,8 @@ span {
     .swal-modal {
         width: 745px;
     }
+
+    .swal-text {
+        font-size: 28px;
+    }
 }
